@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi, I'm Frank 👋🏼
 
-<!--
-**honungsburk/honungsburk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create apps for web3 and dabble with generative art, check our my work! I also lend out my typescript skills for :money_with_wings:.
 
-Here are some ideas to get you started:
+Talk to me about [verifiable credentials](https://en.wikipedia.org/wiki/Verifiable_credentials), [cardano](https://en.wikipedia.org/wiki/Cardano_(blockchain_platform)), [generative art](https://www.reddit.com/r/generative/) or some other cool thing :sunglasses:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects :pushpin:
+
+ - Creator and maintainer of [AtomicSwap](https://atomic-swap.io/) :arrows_counterclockwise:
+ - Creator and maintainer of [Generative Studios](https://generativestudios.app/) :art:
+
+### Around the Web :compass:
+- Check out my [website](https://frankhampusweslien.com/) :globe_with_meridians:
+- Follow me on [twitter](https://twitter.com/HampusFrank) :bird:
