@@ -9,7 +9,7 @@ Talk to me about [verifiable credentials](https://en.wikipedia.org/wiki/Verifiab
  - Creator and maintainer of [AtomicSwap](https://atomic-swap.io/) :arrows_counterclockwise:
  - Creator and maintainer of [Generative Studios](https://generativestudios.app/) :art:
  - I've written a parser combinator library in typescript called [Kombo](https://github.com/honungsburk/kombo) :eyes:
+ - Check out my personal link aggregator [SurfStack](https://surfstack.frankhampusweslien.com/) :surfer:
 
 ### Around the Web :compass:
 - Check out my [website](https://frankhampusweslien.com/) :globe_with_meridians:
-- Follow me on [twitter](https://twitter.com/HampusFrank) :bird:
